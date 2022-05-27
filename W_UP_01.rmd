@@ -71,4 +71,4 @@ The data above shows, once again, a difference in pushup number with each positi
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+In analyzing pushup number through a box plot, a welch two sample t-test, and a statistical set, observations can be made from the data. The mean and median number of pushups for skill players is much higher than the number for line players. Correlation does not equal causation so I can not say for certain that playing a skill position will increase pushup ability. But, I can say that there was a definitive increase in pushup number for this set of players. This may be due to chance. However, based on the data, it may be safe to assume that a skill position player can likely outperform a line position player in a pushup contest.
