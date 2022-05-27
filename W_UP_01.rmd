@@ -53,6 +53,11 @@ The Y-Axis shows number of pushups. The X-Axis shoes the position. Each whisker 
 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(pushups~position,data=mydata)
+```
+
+The difference between pushup ability in the line position players and skill position players is made apparent when comparing the median and means. The line players had a median of 14.5 and a mean of 17.1 pushups. The skill players had a median of 47.5 and a mean of 49.7 pushups. So far, it seems that skill players achieve far more pushups.
 
 ## Inferential Results
 
