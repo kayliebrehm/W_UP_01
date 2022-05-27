@@ -67,7 +67,7 @@ The difference between pushup ability in the line position players and skill pos
 t.test(pushups~position,data=mydata)
 ```
 
-The data above shows, once again, a difference in pushup number with each position. The t value is -5.4341. The df value is 27.079. The p-value is 0.000009421. It was assumed in the alternative hypothesis that there would be a difference with pushup number between  positions. In analyzing the pushup numbers between two positions, we came up with data that the line players have a mean of 17.1 and the skill players have a mean of 49.7. This hypothesis has sufficient support. Furthermore, since the p-value is so small, I reject the null hypothesis, that there was no difference.
+The data above shows, once again, a difference in pushup number with each position. The t value is -5.4341. The df value is 27.079. The p-value is 0.000009421. It was assumed in the alternative hypothesis that there would be a difference with pushup number between  positions. In analyzing the pushup numbers between two positions, we came up with data that the line players have a mean of 17.1 and the skill players have a mean of 49.7. This hypothesis has sufficient support. Furthermore, since the p-value is way less than 0.05, I reject the null hypothesis, that there was no difference. 
 
 # Discussion and Conclusion
 
